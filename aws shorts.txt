@@ -1,0 +1,4 @@
+ping ip
+ip addr
+ssh-copy-id-tempuserip
+vi /etc/ssh/
